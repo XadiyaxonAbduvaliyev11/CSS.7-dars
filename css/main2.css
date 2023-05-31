@@ -1,0 +1,100 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.wrap2{
+    width: 1200px;
+    margin: 0 auto;
+}
+.block{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+
+
+}
+p{
+    text-align: center;
+    margin-top: 45px;}
+
+.block1{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey 20px 10px 0 ;
+}
+.block2{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey 25px 15px 0 ;
+}
+.block3{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey 25px 15px 30px ;
+}
+.block4{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    box-shadow: grey 25px 15px 50px ;
+}
+.block5{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey 20px 20px 0 ;
+}
+.block6{
+    display: inline-block;
+    /*text-align: center;*/
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey 20px 20px 0 ;
+}
+.block7{
+    /*text-align: center;*/
+    display: inline-block;
+    background-color: #3be3eb;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 120px;
+    margin-left: 100px;
+    box-shadow: grey -10px -10px 0 ;
+
+}

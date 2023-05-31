@@ -1,0 +1,71 @@
+
+.yk1{
+    line-height: 5px;
+}
+.yk2{
+    line-height: 5px;
+    text-align: center;
+}
+.block{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px;
+}
+.block2{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px;
+}
+.block3{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px inset;
+    margin-top:20px ;
+}
+.block4{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px inset;
+}
+.block5{
+     border: 5px solid blue;
+     background-color: orange;
+     width: 130px;
+     height: 130px;
+     border-radius: 20px;
+     box-shadow: rgba(0,0,0,0.4) 10px 10px 0 10px ;
+     margin-top:20px ;
+ }
+.block6{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 10px;
+}
+.block7{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 10px inset;
+    margin-top:20px ;
+}
+.block8{
+    border: 5px solid blue;
+    background-color: orange;
+    width: 130px;
+    height: 130px;
+    box-shadow: rgba(0,0,0,0.4) 10px 10px 0 10px inset;
+}

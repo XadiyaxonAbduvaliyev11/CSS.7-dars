@@ -1,0 +1,25 @@
+.block{
+    border: transparent 1px solid;
+    width: 700px;
+    height: 150px;
+    background: linear-gradient(0deg,lawngreen,#137EA7,indianred);
+}
+.text{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.block2{
+    border: transparent 1px solid;
+    width: 700px;
+    height: 150px;
+    background: linear-gradient(90deg,orange,yellow,green,blue,purple);
+
+}
+.text2{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+    width: 1200px;
+    height: 1200px;
+    background-repeat: no-repeat;
+}
+.block{
+    background: linear-gradient( 130deg,purple,blue,green,yellow);
+    border: transparent solid 1px;
+    width: 500px;
+    height: 150px;
+}
+.block-item{
+    background: linear-gradient( 130deg,black,white);
+    width: 450px;
+    height: 150px;
+}

@@ -1,0 +1,16 @@
+
+body{
+    background-color: black;
+}
+.block{
+    border: transparent 1px solid;
+    width: 400px;
+    height: 150px;
+    background: linear-gradient(90deg, blue,green,yellow,orange,red);
+}
+.text{
+    font-size: 40px;
+    color: grey;
+    text-align: center;
+    margin-top: 15px;
+}

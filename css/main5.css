@@ -1,0 +1,150 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+h1{
+    text-shadow: 2px -10px 10px red, -2px 10px 10px blue;
+}
+.row1{
+    width: 100%;
+    display: block;
+    line-height: 50px;
+}
+.col{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5) ;
+    /* margin: 0 20px;*/ /*bizda faqat width borligi uchun  0 20px yozdik*/
+}
+
+.row1 .col:nth-child(2){
+    margin: 0 5%;
+
+}
+.row1 .col:nth-child(1) .sana{
+    background-color: indianred;
+}
+
+.row2 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row2 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row2 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row3 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row3 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row3 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row4 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row4 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row4 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row5 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row5 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row5 .col:nth-child(3){
+    margin-top: 50px;
+}
+.row5 .col:nth-child(2) .sana{
+  background-color: indianred;
+}
+
+.row6 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row6 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row6 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row7 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row7 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row7 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row8 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row8 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row8 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row9 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row9 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row9 .col:nth-child(3){
+    margin-top: 50px;
+}
+
+.row10 .col:nth-child(1){
+    margin-top: 50px;
+}
+.row10 .col:nth-child(2){
+    margin: 0 5%;
+    margin-top: 50px;
+}
+.row10 .col:nth-child(3){
+    margin-top: 50px;
+}
+.row11 .col:nth-child(1){
+    margin-top: 50px;
+}
+
+
+.sana{
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 5rem 0;          /* 1 rem = 16px*/
+    font-weight: bold;
+    background-color: #7de29e;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+
+.block{
+    background: radial-gradient(red,yellow,green);
+    border: transparent solid 1px;
+    width: 1000px;
+    height: 1000px;
+}
